@@ -1,0 +1,4 @@
+# API Team or Security Team must approve all changes
+* @massive-health/api-team @massive-health/security
+# Security team must approve editing CODEOWNERS
+/.github/ @massive-health/security
